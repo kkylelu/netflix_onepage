@@ -238,12 +238,12 @@
                                                     <rect key="frame" x="-3" y="0.0" width="399" height="154"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     <subviews>
-                                                        <view contentMode="scaleToFill" id="8dR-2Z-sgV" userLabel="Trending">
-                                                            <rect key="frame" x="-1" y="1" width="401" height="152"/>
+                                                        <view contentMode="scaleToFill" id="eoE-5n-3dy" userLabel="long_View">
+                                                            <rect key="frame" x="0.0" y="0.0" width="920" height="154"/>
                                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                             <subviews>
-                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Young sheldon" id="YCt-85-Ffd">
-                                                                    <rect key="frame" x="6" y="0.0" width="106" height="152"/>
+                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Young sheldon" id="Whk-6v-hsO">
+                                                                    <rect key="frame" x="5" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -251,8 +251,8 @@
                                                                         </userDefinedRuntimeAttribute>
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
-                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Squid Game netflix" id="hcd-51-JHp">
-                                                                    <rect key="frame" x="121" y="0.0" width="106" height="152"/>
+                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Squid Game netflix" id="j8C-A5-Shf">
+                                                                    <rect key="frame" x="120" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -260,16 +260,16 @@
                                                                         </userDefinedRuntimeAttribute>
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
-                                                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UFk-Ax-eiO" userLabel="goodplace">
-                                                                    <rect key="frame" x="236" y="0.0" width="106" height="152"/>
+                                                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pMd-cP-rKb" userLabel="goodplace">
+                                                                    <rect key="frame" x="235" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
                                                                     <buttonConfiguration key="configuration" style="plain">
                                                                         <backgroundConfiguration key="background" image="theGoodPlace"/>
                                                                     </buttonConfiguration>
                                                                 </button>
-                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Better call saul" id="9K3-z1-ds0">
-                                                                    <rect key="frame" x="351" y="0.0" width="106" height="152"/>
+                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Better call saul" id="s3X-j2-yvJ">
+                                                                    <rect key="frame" x="350" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -277,8 +277,8 @@
                                                                         </userDefinedRuntimeAttribute>
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
-                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="The Witcher netflix" id="06n-wZ-npV">
-                                                                    <rect key="frame" x="466" y="0.0" width="106" height="152"/>
+                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="The Witcher netflix" id="q7J-WI-wvR">
+                                                                    <rect key="frame" x="465" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -286,27 +286,27 @@
                                                                         </userDefinedRuntimeAttribute>
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
-                                                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YQt-th-zhO" userLabel="You">
-                                                                    <rect key="frame" x="581" y="0.0" width="106" height="152"/>
+                                                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fpb-b4-9f7" userLabel="You">
+                                                                    <rect key="frame" x="580" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
                                                                     <buttonConfiguration key="configuration" style="plain">
                                                                         <backgroundConfiguration key="background" image="YOU"/>
                                                                     </buttonConfiguration>
                                                                 </button>
-                                                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eHc-qR-Lex" userLabel="breakingBad">
-                                                                    <rect key="frame" x="696" y="0.0" width="106" height="152"/>
+                                                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rIZ-iU-irK" userLabel="breakingBad">
+                                                                    <rect key="frame" x="695" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
                                                                     <buttonConfiguration key="configuration" style="plain">
                                                                         <backgroundConfiguration key="background" image="Breaking bad"/>
                                                                     </buttonConfiguration>
                                                                     <connections>
-                                                                        <segue destination="ah1-II-b09" kind="show" id="87x-zA-uhW"/>
+                                                                        <segue destination="ah1-II-b09" kind="show" id="kpG-rb-Vgm"/>
                                                                     </connections>
                                                                 </button>
-                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Jujutsu Kaisen" id="7or-4d-2TL">
-                                                                    <rect key="frame" x="811" y="0.0" width="106" height="152"/>
+                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Jujutsu Kaisen" id="Xz0-TE-g6r">
+                                                                    <rect key="frame" x="810" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -315,7 +315,7 @@
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
                                                             </subviews>
-                                                            <viewLayoutGuide key="safeArea" id="33V-pp-Snt"/>
+                                                            <viewLayoutGuide key="safeArea" id="9RX-ck-g54"/>
                                                             <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </view>
                                                     </subviews>
@@ -366,12 +366,12 @@
                                                     <rect key="frame" x="-3" y="0.0" width="399" height="154"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     <subviews>
-                                                        <view contentMode="scaleToFill" id="eym-o8-4S6" userLabel="Trending">
-                                                            <rect key="frame" x="-1" y="1" width="401" height="152"/>
+                                                        <view contentMode="scaleToFill" id="BGT-JH-tr5" userLabel="long_View">
+                                                            <rect key="frame" x="0.0" y="0.0" width="920" height="154"/>
                                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                             <subviews>
                                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Weathering With You" id="c9X-wF-Gye">
-                                                                    <rect key="frame" x="6" y="0.0" width="106" height="152"/>
+                                                                    <rect key="frame" x="5" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -380,7 +380,7 @@
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
                                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Dr.stone" id="Vld-S6-Ugh">
-                                                                    <rect key="frame" x="121" y="0.0" width="106" height="152"/>
+                                                                    <rect key="frame" x="120" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -389,7 +389,7 @@
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
                                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Jujutsu Kaisen" id="XLr-Gk-cYa">
-                                                                    <rect key="frame" x="236" y="0.0" width="106" height="152"/>
+                                                                    <rect key="frame" x="235" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -398,7 +398,7 @@
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
                                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="hunter" id="M3H-Wi-Oug">
-                                                                    <rect key="frame" x="351" y="0.0" width="106" height="152"/>
+                                                                    <rect key="frame" x="350" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -407,7 +407,7 @@
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
                                                                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0XC-cE-tme" userLabel="spyfamily">
-                                                                    <rect key="frame" x="466" y="0.0" width="106" height="152"/>
+                                                                    <rect key="frame" x="465" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
                                                                     <buttonConfiguration key="configuration" style="plain">
@@ -418,7 +418,7 @@
                                                                     </connections>
                                                                 </button>
                                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Violet Evergarden- The Movie" id="KB2-Zk-PcM">
-                                                                    <rect key="frame" x="581" y="0.0" width="106" height="152"/>
+                                                                    <rect key="frame" x="580" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -427,7 +427,7 @@
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
                                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="5 Centimeters per Second" id="egQ-D0-L9S">
-                                                                    <rect key="frame" x="696" y="0.0" width="106" height="152"/>
+                                                                    <rect key="frame" x="695" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -436,7 +436,7 @@
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
                                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="demonSlayer" id="EJt-5P-5gc">
-                                                                    <rect key="frame" x="811" y="0.0" width="106" height="152"/>
+                                                                    <rect key="frame" x="810" y="0.0" width="106" height="152"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -445,7 +445,7 @@
                                                                     </userDefinedRuntimeAttributes>
                                                                 </imageView>
                                                             </subviews>
-                                                            <viewLayoutGuide key="safeArea" id="Qhx-qv-xud"/>
+                                                            <viewLayoutGuide key="safeArea" id="Kg2-Qo-9W1"/>
                                                             <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </view>
                                                     </subviews>
@@ -2034,10 +2034,10 @@
             </objects>
             <point key="canvasLocation" x="2763" y="179"/>
         </scene>
-        <!--episodes_onepiece-->
+        <!--episodes_spyfamily-->
         <scene sceneID="xex-bp-TBI">
             <objects>
-                <tableViewController title="episodes_spyfamily" id="WWy-u2-zfL" userLabel="episodes_onepiece" sceneMemberID="viewController">
+                <tableViewController title="episodes_spyfamily" id="WWy-u2-zfL" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" sectionFooterHeight="-1" id="l8i-vk-9by">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -2456,8 +2456,8 @@
                                     </backgroundConfiguration>
                                 </buttonConfiguration>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="It's Official: A New Adventure is Coming" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wLe-ih-2JK">
-                                <rect key="frame" x="9" y="288" width="269" height="17"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="A Family of Secrets, A Mission of Pretense." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wLe-ih-2JK">
+                                <rect key="frame" x="9" y="288" width="288" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="14"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -2486,7 +2486,7 @@
                                 <rect key="frame" x="8" y="408" width="371" height="68"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">With his straw hat and ragtag crew, young pirate  Monkey D. Luffy goes on an epic voyage for treasure  in this live-action adaptation of the popular manga.</string>
+                                <string key="text">A spy, an assassin, and their telepathic daughter juggle espionage and family life, uncovering trust and unexpected bonds amidst secrets.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
