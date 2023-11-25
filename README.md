@@ -3,6 +3,7 @@
 
 ## Demo
 ![image](netflix_onepage/KLix_1125_2.gif)
+
 操作畫面原本有錄成 Gif 檔，結果超過 200 MB 上傳不了 medium，只好上傳影片檔在 Youtube（見下方），另外截圖做成 Gif 。
 https://youtube.com/shorts/NDTCZwTo0IA
 
