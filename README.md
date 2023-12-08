@@ -15,7 +15,7 @@ https://youtube.com/shorts/NDTCZwTo0IA
 - 熟悉常用元件的屬性
 
 ## 過程紀錄
-[復刻 Netflix APP 初步練習｜Netflix clone, UIkit, Xcode | by Kyle Lu | Nov, 2023 | Medium](https://medium.com/@kkylelu/%E5%BE%A9%E5%88%BB-netflix-app-%E5%88%9D%E6%AD%A5%E7%B7%B4%E7%BF%92-netflix-clone-uikit-xcode-2d491e5393da)
+[復刻 Netflix APP 初步練習｜Netflix clone, UIkit, xcode](https://kylelu.com/2023/11/26/netflix-app-replica-practice-netflix-clone-uikit-xcode/)
 
 
 ## 版權聲明
